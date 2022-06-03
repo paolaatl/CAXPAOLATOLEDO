@@ -1,5 +1,0 @@
-print('Holiwissss!!') 
-print('My name is Paola, but my friends call me Tola')
-print('I´m in 9D')
-print('My favorite food is all type of pasta <3')
-print('When I grow up I want to dedicate myself to professional volleyball, go live with my best friend, live in another country with my family and have a career that I like, I want to study 2 or 3 careers')
